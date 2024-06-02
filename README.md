@@ -1,1 +1,0 @@
-See [pyperch/notebooks](notebooks/). 
